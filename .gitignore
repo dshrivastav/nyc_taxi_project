@@ -1,0 +1,5 @@
+# Ignore large data files
+data/raw/
+models/
+*.pkl
+*.csv
